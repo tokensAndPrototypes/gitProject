@@ -1,2 +1,2 @@
-const costs = 7878787878;
+const expenses = 77777777;
 const doSomething = () => { console.log(""); };
