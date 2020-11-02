@@ -1,1 +1,1 @@
-
+const expenses = 2000000000;
